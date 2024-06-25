@@ -1,4 +1,13 @@
 ## Hi there 😸
+* this is a bullet list:
+
+1) this is a numbered
+2) list
+
+`this is some code`
+
+
+
 <!--
 **mjmaxlake/mjmaxlake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
